@@ -11,6 +11,7 @@ int main()
     int n,s;
     std::cin>>n>>s;
 
+// dp mang 1 chieu
     // int xu[1000];
     // int ans[1000];
     // memset(ans,0,sizeof(ans));
@@ -20,8 +21,7 @@ int main()
     //     std::cin>>xu[i];
     //     ans[xu[i]]=1;
     // }
-
-    
+ 
     // for(int i=1;i<=s;i++)
     // {
     //     for(int j=0;j<n;j++)
@@ -34,6 +34,8 @@ int main()
     // }
     // for(int i=0;i<=s;i++) std::cout<<ans[i]<<" ";
 
+
+//dp mang 2 chieu
     int xu[1000];
     for(int i=0;i<n;i++) std::cin>>xu[i];
 
