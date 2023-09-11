@@ -1,0 +1,17 @@
+THUẬT TOÁN THAM LAM
+
+đk:
+    1. mỗi bước luôn tajo ra lựa chọn tốt nhất vào thời điểm đó
+    2. việc liên kết lại kết quả mỗi bước sẽ cho ta kết quả tối ưu toàn cục
+thành phần, các bước
+    1.tập hợp các thành phần có thể tham lam 
+    2.một hàm lựa chọn để chọn ứng ciên tốt nhất cho giải pháp tham lam 
+    3.hàm thực thi để quyết định xem ứng viên có được dùng để xây dựng lời giải hay không?
+    4.hàm mục tiêu dùng để xác định giá trị của lời giải hoặc 1 phần lời giải
+    5.hàm giải pháp để xác định khi nào giải pháp hoàn chỉnh
+
+
+quyết định
+    1.lựa chọn tính chất để tham
+    2.lựa chọn cấu trúc con tối ưu
+

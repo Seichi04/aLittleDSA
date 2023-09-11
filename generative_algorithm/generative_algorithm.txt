@@ -1,0 +1,10 @@
+THUẬT TOÁN SINH
+
+
+Đk:
+      1.Có thể xác định được thứ tự trên tập các cấu hình cần liệt kê; biết cấu hình đầu tiên là bt cấu hình cuối cùng;
+      2.Từ một cấu hình chưa phải cuối cùng, ta xây dựng được thuật toán sinh ra cấu hình đứng ngay sau nó;
+
+Bước khởi tạo và Bước lặp
+
+

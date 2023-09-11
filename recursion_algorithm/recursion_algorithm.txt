@@ -1,0 +1,3 @@
+- đk có thể giải bằng bài toán đệ quy
+    1. bài toán P' có thể giải như bài toán P 
+    2. có điều kiện dừng xác định

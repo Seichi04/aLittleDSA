@@ -1,0 +1,26 @@
+THUẬT TOÁN QUAY LUI
+
+giả sử có bộ X= x1,x2,....
+với mỗi x thì có n khả năng...
+
+
+b1: kiểu tra xem khả năng n1,n2.. có được chấp thuận ở trường hợp x không, rồi xác định kết quả tiếp theo
+    sau khi xét xong khả năng n1 thì tiếp tục n2..
+
+b2: nếu không có khả năng j được chấp thuận thì quay lại ban đầu để thử các khả năng còn lại
+
+mô tả
+
+
+Back_track(int i)
+{
+    for(j=<case 1>;j<=Ni;j++)
+    {
+        if(accept case j)
+        {
+            x[i] = case j;
+            if(i==n) have some result in here;
+            else Back_track(i+1)
+        }
+    }
+}

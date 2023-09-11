@@ -1,0 +1,7 @@
+MÔ HÌNH THUẬT TOÁN QUY HOẠCH ĐỘNG
+
+đk:
+    bài toán có thể phân rã thành nhiều bài toán con
+    phải có đủ không gian lưu trữ
+    quy trình giải quyết bài toán con phải được thực hiện hữu hạn bước
+    
